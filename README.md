@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS,SQL**
 
 - 📫 How to reach me **Khagendra.prathamit@gmail.com**
 
