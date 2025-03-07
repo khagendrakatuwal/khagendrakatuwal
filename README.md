@@ -22,8 +22,7 @@
 
 
 
-## 🌐 Socials:
-[![Facebook](www.facebook.com/people/Khagendra-Katuwal/61564902225227/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nischal.061) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nischal061) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nischal061) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/nischal.neupane.061](https://www.facebook.com/people/Khagendra-Katuwal/61564902225227/))  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Nischal061](https://www.linkedin.com/in/khagendra-katuwal-4a4996175/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/nischal061](https://khagendrakatuwal.com.np/#)) 
 
 
 
